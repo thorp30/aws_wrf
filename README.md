@@ -1,2 +1,3 @@
-# aws_wrf
-A location to store all WRF scripts to use on was
+# AWS WRF
+
+A project space to set up a test WRF simulation on AWS

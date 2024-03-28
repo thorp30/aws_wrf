@@ -1,0 +1,12 @@
+--2024-03-11 13:11:31--  ftp://ftp.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/gfs.20240311/00/atmos/gfs.t00z.pgrb2.0p25.f000
+           => ‘gfs.t00z.pgrb2.0p25.f000’
+Resolving ftp.ncep.noaa.gov (ftp.ncep.noaa.gov)... 140.90.101.48
+Connecting to ftp.ncep.noaa.gov (ftp.ncep.noaa.gov)|140.90.101.48|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/data/nccf/com/gfs/prod/gfs.20240311/00/atmos ... done.
+==> SIZE gfs.t00z.pgrb2.0p25.f000 ... 506312763
+==> PASV ... done.    ==> RETR gfs.t00z.pgrb2.0p25.f000 ... done.
+Length: 506312763 (483M) (unauthoritative)
+
+gfs.t00z.pgrb2.0p25.f000             0%[                                                                ]   2.06M  24.8KB/s    eta 5h 8m  
